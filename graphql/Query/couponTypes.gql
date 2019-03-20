@@ -1,0 +1,9 @@
+query couponTypes{
+  couponTypes{
+    _id
+    hash
+    name
+    description
+    img
+  }
+}
